@@ -1,0 +1,7 @@
+C:\Users\SimpsoR\source\repos\Ex2_StackOverflowPost\Ex2_StackOverflowPost\bin\Debug\Ex2_StackOverflowPost.exe.config
+C:\Users\SimpsoR\source\repos\Ex2_StackOverflowPost\Ex2_StackOverflowPost\bin\Debug\Ex2_StackOverflowPost.exe
+C:\Users\SimpsoR\source\repos\Ex2_StackOverflowPost\Ex2_StackOverflowPost\bin\Debug\Ex2_StackOverflowPost.pdb
+C:\Users\SimpsoR\source\repos\Ex2_StackOverflowPost\Ex2_StackOverflowPost\obj\Debug\Ex2_StackOverflowPost.csprojAssemblyReference.cache
+C:\Users\SimpsoR\source\repos\Ex2_StackOverflowPost\Ex2_StackOverflowPost\obj\Debug\Ex2_StackOverflowPost.csproj.CoreCompileInputs.cache
+C:\Users\SimpsoR\source\repos\Ex2_StackOverflowPost\Ex2_StackOverflowPost\obj\Debug\Ex2_StackOverflowPost.exe
+C:\Users\SimpsoR\source\repos\Ex2_StackOverflowPost\Ex2_StackOverflowPost\obj\Debug\Ex2_StackOverflowPost.pdb
